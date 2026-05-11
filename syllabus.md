@@ -1,92 +1,61 @@
 # Syllabus 
 
-- [CPSC 330 201 2025W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-v-330-201-2025w)
-
-- [CPSC 330 202 2025W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-v-330-202-2025w)
-
-- [CPSC 330 203 2025W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-v-330-203-2025w)
-
-- [CPSC 330 204 2025W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-v-330-204-2025w)
-
-
 ## Course description
 
 Application of machine learning tools, with an emphasis on solving practical problems. Data cleaning, feature extraction, supervised and unsupervised machine learning, reproducible workflows, and communicating results.
 
-
 ## Class meetings
 
-**Lectures**:
+### **Classes (lectures)**:
 
 | Section      | Day     | Time          | Zoom     |
 |--------------|---------|---------------|----------|
-| CPSC 330 201 | Tue/Thu | 9:30 - 10:50  | MCML 360 |
-| CPSC 330 202 | Tue/Thu | 15:30 - 16:50 | DMP 310  |
-| CPSC 330 203 | Tue/Thu | 17:00 - 18:20 | SWNG 222 |
-| CPSC 330 204 | Tue/Thu | 11:00 - 12:20 | DMP 310  |
+| CPSC 330 911 | MWF     | 10:00 - 12:20 | DMP 310  |
 
-**Tutorials**:
+### **Tutorials**:
 
-| Section      | Day | Time          | Location  |
-|--------------|-----|---------------|-----------|
-| CPSC 330 T2A | Fri | 09:00 - 10:00 | MCLD 3014 |
-| CPSC 330 T2B | Fri | 10:00 - 11:00 | MCML 158  |
-| CPSC 330 T2C | Fri | 12:00 - 13:00 | SWNG 405  |
-| CPSC 330 T2D | Fri | 13:00 - 14:00 | MCLD 3014 |
-| CPSC 330 T2E | Fri | 15:00 - 16:00 | MCLD 3008 |
-| CPSC 330 T2F | Fri | 14:00 - 15:00 | CEME 1215 |
-| CPSC 330 T2G | Thu | 17:00 - 18:00 | CEME 1215 |
-| CPSC 330 T2H | Fri | 11:00 - 12:00 | FSC 1611  |
-| CPSC 330 T2I | Thu | 13:00 - 14:00 | CEME 1215 |
-| CPSC 330 T2J | Thu | 14:00 - 15:00 | MCLD 3008 |
-| CPSC 330 T2K | Thu | 15:00 - 16:00 | SWNG 107  |
-| CPSC 330 T2L | Thu | 09:00 - 10:00 | MCLD 3008 |
-| CPSC 330 T2M | Thu | 10:00 - 11:00 | MCLD 3008 |
-| CPSC 330 T2N | Fri | 13:00 - 14:00 | MCLD 158  |
-
-**Tutorials**
+In the summer, students will attend *two* tutorials each week, the first on T/W, and the second on Th/F.
 
 Tutorials for this course will be conducted by TAs, who will guide you through additional exercises and demos on the content covered each week. A bonus of up to 2% will be added to your final grade for attending tutorials.
+
+#### First tutorial of the week
+| Section | Days | Time        | Location | Assigned |
+|---------|------|-------------|----------|----------|
+| D1B     | T    | 10:00-11:00 | DMP 201  | Zoe      |
+| D1C     | T    | 11:00-12:00 | DMP 201  | Xuechun  |
+| D1E     | W    | 13:00-14:00 | DMP 301  | Minglong |
+| D1F     | W    | 13:00-14:00 | DMP 201  | TBD      |
+
+#### Second tutorial of the week
+| Section | Days | Time        | Location | Assigned |
+|---------|------|-------------|----------|----------|
+| D1B     | Th   | 10:00-11:00 | DMP 201  | Zoe      |
+| D1C     | Th   | 11:00-12:00 | DMP 201  | Cedar    |
+| D1E     | F    | 13:00-14:00 | DMP 301  | Charles  |
+| D1F     | F    | 13:00-14:00 | DMP 201  | Sneha    |
+
 
 ## Teaching Team
 
 **Instructors**:
 
-- [Giulia Toti](https://www.gtoti.com/), OH: Thursdays, 11:15 am - 12:30 pm @ ICCS 231
-- [Firas Moosvi](https://firas.moosvi.com), OH: Thursdays 2 - 3 pm [on Zoom](https://ubc.zoom.us/j/64485659982?pwd=J0AWlEsUZJf7jJjivHgaDyCHsE5vF1.1)
-- [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi), OH: Tuesdays and Thursdays after each class at 12:20 (DMP 310) and 18:20 (SWNG 222)
+- [Firas Moosvi](https://firas.moosvi.com), OH: after class Monday and Wednesday in DMP 310
 
 ### Course coordinator
-- Anca Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. 
+- Emily Fuchs, please reach out to the course coordinator as a private message on Ed Discussion for: admin questions, extensions, academic concessions etc. 
 
 ### TAs
 
-- Ayanfe Adekanye
-- Tanav Singh Bajaj
-- Aryan Ballani
-- Matthew Buchholz
-- Jun He Cui
-- Niki Duan
-- Atabak Eghbal
-- Eshed Gal
-- Neo Ghassemi
-- Zoe Harris
-- Kanwal Mehreen
-- Himanshu Mishra
-- Kimia	Rostin
-- Sneha Sambandam
-- Sohbat Sandhu
-- Joseph Soo
-- Carlos Vasquez Rios
-- Luna Peck
+- TBD
+
 
 ## Registration
 
 **Waitlists**:
 
-CPSC 330 is a very fast-paced course and students who register in the course late have a tendency to struggle greatly and are rarely able to catch-up. In 2026S1, we are expecting that all students who are registered on any open waitlists by 3 PM on January 9th will have an opportunity to take the course. This also means that **the registration into the course will be closed by the end of the day on January 9th, and no further registrations will be permitted.** Of course, students will still be able to drop the course until UBC's official Add/Drop date. We hope this will allow all students to have the best chance at success in this course!
+CPSC 330 is a very fast-paced course and students who register in the course late have a tendency to struggle greatly and are rarely able to catch-up. In 2026S1, we are expecting that all students who are registered on the waitlist by 3 PM on May 15th will have an opportunity to take the course. This also means that **the registration into the course will be closed by the end of the day on May 15th, and no further registrations will be permitted.** Of course, students will still be able to drop the course until UBC's official Add/Drop date. We hope this will allow all students to have the best chance at success in this course!
 
-**The instructors have no control over the wailtist order and cannot help you bypass the waiting list.**
+**The instructors have no control over the waitlist order and cannot help you bypass the waiting list.**
 
 **Prerequisites**: The official prerequisites can be found [here](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=330&campuscd=UBC&dept=CPSC&pname=subjarea). If you do not meet the prerequisites, see [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/prerequisites) and [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/rules-about-cpsc-appeals-undergraduate-students). We were told that students should not visit the front desk in the CS main office about prerequisite issues, because the folks at the front desk do not have the authority to resolve prerequisite issues.
 
@@ -96,28 +65,29 @@ In practice, the prerequisite is familiarity with Python programming.
 
 ## Grading scheme
  
-The grading scheme for the course is as follows:
+The grading scheme for the course is tentatively (to be confirmed), as follows:
 
-| Component              | Weight | Location                                              |
-|------------------------|--------|-------------------------------------------------------|
-| Syllabus quiz          | 1%     | [PrairieLearn (through Canvas)](https://us.prairielearn.com/pl/course_instance/202573/assessment/2628896)       |
-| Participation          | 5%     | iClicker Cloud (through Canvas for Sections 201, 203, 204) or Learning Logs (through PrairieLearn for Section 202 only) |
-| Assignments            | 22%    | [Gradescope](https://www.gradescope.ca/courses/29785) |
-| Midterm 1              | 21%    | [CBTF](https://cbtf.ubc.ca/), on PrairieLearn |
-| Midterm 2              | 21%    | [CBTF](https://cbtf.ubc.ca/), on PrairieLearn |
-| Final Exam*            | 30%    | [CBTF](https://cbtf.ubc.ca/), on PrairieLearn |
+| Component     | Weight |
+|---------------|--------|
+| Learning Logs | 10%    |
+| Midterm 1     | 15%    |
+| Midterm 2     | 15%    |
+| Midterm 3     | 15%    |
+| Assignments   | 20%    |
+| Final         | 25%    |
 | Tutorial participation | up to 2% bonus    | in person attendance to 10 tutorials |
 
 **All students must satisfy ALL the following conditions to pass the course:**
-- Pass the Assignments component with a grade of at least 40%,
+- Pass the Assignments component with an average grade of at least 40%,
 - Pass the Midterms and Final Exam together with a weighted average grade of at least 50%
 - Pass the Final Exam with a grade of at least 40%,
 
 **If a student does not satisfy the appropriate requirements, the student will be assigned the lower of their earned course grade or, a maximum overall grade of 45 in the course. In exceptional cases (with approved concessions), passing requirements may be waived at the discretion of the course instructor; if waived, the student will earn a maximum grade of 50% in the course.**
 
-### iClicker 
+<!-- ### iClicker 
 
-The iClicker participation grade will mainly consider your engagement rather than the accuracy of your responses. Nevertheless, these questions are intended to facilitate your learning, so please make an earnest effort when providing your answers. Participation in 80% of the classes is enough to receive the full participation grade - this gives you some wiggle room if you happen to miss a class or two.
+The iClicker participation grade will mainly consider your engagement rather than the accuracy of your responses. Nevertheless, these questions are intended to facilitate your learning, so please make an earnest effort when providing your answers. Participation in 80% of the classes is enough to receive the full participation grade - this gives you some wiggle room if you happen to miss a class or two. 
+-->
 
 ### Assignments
 
@@ -135,7 +105,8 @@ For the grading scheme we wish we could use [this](https://youtu.be/HdHlfiOAJyE?
 
 Assignments will be due at 11:59 PM on the due date.
 If you cannot make this due date, you may use a "late token".
-Each student will have 4 late tokens for the entire semester, which we will track on Canvas. No action is required on your part to use the tokes, just make sure that you have a sufficient number if you are planning on using them.
+Each student will have 4 late tokens for the entire semester, which we will track. 
+No action is required on your part to use the tokes, just make sure that you have a sufficient number if you are planning on using them.
 
 For example, if assignment is due on a Monday at 11:59 pm:
 - Handing it anytime on Tuesday will cost you 1 late token (irrespective of whether it's a holiday).
@@ -153,7 +124,9 @@ We will post solutions 48-hours after the due date.
 
 This is an in-person class, and we do not livestream or make recordings available by default. If you miss a class, you can catch up by reviewing the lecture notes and talking to your peers. Students who were absent for approved reasons (e.g., illness, jury duty) can be given access to existing lecture recordings (when available), but please note that these will be from previous course instances. It is the student's responsibility to make sure they are keeping up with the most up-to-date material, which will be the one included in the notes. 
 
+<!-- 
 **Process to request access:** If you miss a class for a legitimate reason, please contact our course coordinator at cpsc330-admin@cs.ubc.ca and provide appropriate documentation (e.g., a doctor's note if you are seriously ill). Your request will be reviewed, and approval may take time. Please remember that relying on recordings is not an effective way to stay on top of the course material. Regular attendance is essential for success.
+ -->
 
 ### Use of Generative AI in the course
 
@@ -175,22 +148,17 @@ Finally, always ask yourself: Is this tool helping me learn, or harming my learn
 
 ### Midterms
 
-There will be two midterms in CPSC 330 and both of them will be conducted in the CBTF via self-reservation over a three-day period.
+There will be midterms in CPSC 330 and they will be conducted in the CBTF via self-reservation over a multi-day period.
 The CBTF (computer based testing facility) is designed to enhance the student’s writing experience by providing them with a familiar, secure testing environment with quick access to technical support, as well as support from their instructor for common access issues.
 
 #### Centre for Accessibility (CfA) Exam Accommodations
 
- Students who are registered with the Centre for Accessibility (CfA) with exam accommodations listed below will need to write all of their assessments in the Computer-Based Testing Facility (CBTF). The CBTF will provide the following accommodations: 
+ Students who are registered with the Centre for Accessibility (CfA) with exam accommodations listed below will need to write all of their assessments in the Computer-Based Testing Facility (CBTF).
+ For a full list of CfA accommodations that can be met at the CfA, [please see the CBTF page](https://cbtf.ubc.ca/students/accommodations).
 
-- Extended-time (up to 4x)
-- Distraction-reduced environment
-- Close proximity to washroom
-- Phone permitted for medical purposes
-- Medical equipment/supplies/food
-
-If you have an accommodation that is not listed above, you will write your assessments with the CfA and will need to book a time by their deadline. Please do not book any assessments with the CfA if you are expected to write in the CBTF, as the CfA will cancel the exam booking and ask you to book it yourself with the CBTF. If you have any concerns about your accommodations being met in the CBTF, please reach out to your Accessibility Advisor.
-
-For more information, [please see the CBTF page](https://cbtf.ubc.ca/students/accommodations).
+If you have an accommodation that is not listed above, you will write your assessments with the CfA and will need to book a time by their deadline.
+Please do not book any assessments with the CfA if you are expected to write in the CBTF, as the CfA will cancel the exam booking and ask you to book it yourself with the CBTF.
+If you have any concerns about your accommodations being met in the CBTF, please reach out to your Accessibility Advisor.
 
 ### Final exam
 
@@ -199,7 +167,6 @@ The final exam is scheduled for the exam period and is comprehensive, covering t
 ## Academic concessions
 
 UBC has a [policy on academic concession](https://students.ubc.ca/enrolment/academic-learning-resources/academic-concessions) for cases in which a student may be unable to complete coursework. According to this policy, grounds for academic concession can be illness, conflicting responsibilities, or compassionate grounds. Examples of compassionate grounds, from the above policy, include "a traumatic event experienced by the student, a family member, or a close friend; an act of sexual assault or other sexual misconduct experienced by the student, a family member, or a close friend; a death in the family or of a close friend." To request an academic concession, please write to the course coordinator (cpsc330-admin@cs.ubc.ca), with your section instructor copied in the email. Additional documentation might be requested. We will review your situation and determine whether to approve the concession, and if approved, the appropriate steps to follow. Please note that when possible (short term occurrences) tokens should be used as the default concession mechanism for assignments.
-
 
 ## Code of conduct
 

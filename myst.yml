@@ -1,6 +1,6 @@
 version: 1
 project:
-  title: CPSC 330 Applied Machine Learning 2025W2
+  title: CPSC 330 Applied Machine Learning 2026S1
   authors:
     - name: Varada Kolhatkar
     - name: Giulia Toti
@@ -10,7 +10,7 @@ project:
   exclude:
     - hw
     - exams
-  github: UBC-CS/cpsc330-2025W2
+  github: UBC-CS/cpsc330-2026S1
   exports:
     - format: pdf
       template: plain_latex_book
@@ -33,53 +33,53 @@ project:
       children:
         - file: syllabus.md
         - title: About CPSC 330
-          children:
-            - file: learning-objectives.md
-            - file: docs/330_vs_340.md
-        - title: Setup
-          children:
-            - file: docs/git_installation.md
-            - file: docs/setup.md
-            - file: docs/homework_instructions.md
-        - title: Resources
-          children:
-            - file: docs/faq.md
-            - file: docs/grades.md
-            - file: docs/asking_for_help.md
-            - file: docs/python_notes.ipynb
-            - file: docs/resources.md
-        - file: docs/README.md
-    - title: Part 1
+        #   children:
+        #     - file: learning-objectives.md
+        #     - file: docs/330_vs_340.md
+        # - title: Setup
+        #   children:
+        #     - file: docs/git_installation.md
+        #     - file: docs/setup.md
+        #     - file: docs/homework_instructions.md
+        # - title: Resources
+        #   children:
+        #     - file: docs/faq.md
+        #     - file: docs/grades.md
+        #     - file: docs/asking_for_help.md
+        #     - file: docs/python_notes.ipynb
+        #     - file: docs/resources.md
+        # - file: docs/README.md
+    - title: Part 1 - Fundamentals
       children:
         - file: lectures/notes/01_intro.ipynb
-        - file: lectures/notes/02_terminology-decision-trees.ipynb
-        - file: lectures/notes/03_ml-fundamentals.ipynb
-        - file: lectures/notes/04_kNNs-SVM-RBF.ipynb
-        - file: lectures/notes/05_preprocessing-pipelines.ipynb
-        - file: lectures/notes/06_column-transformer-text-feats.ipynb
-        - file: lectures/notes/07_linear-models.ipynb
-        - file: lectures/notes/08_hyperparameter-optimization.ipynb
-        - file: lectures/notes/09_classification-metrics.ipynb
-        - file: lectures/notes/10_regression-metrics.ipynb
-    - title: Part 2
-      children:
-        - file: lectures/notes/11_ensembles.ipynb
-        - file: lectures/notes/12_feat-importances.ipynb
-        - file: lectures/notes/13_feature-engineering-selection.ipynb
-        - file: lectures/notes/14_K-Means.ipynb
-        - file: lectures/notes/15_DBSCAN-hierarchical.ipynb
-        - file: lectures/notes/16_recommender-systems.ipynb
-    - title: Part 3
-      children:
-        - file: lectures/notes/17_natural-language-processing.ipynb
-        - file: lectures/notes/18_Intro-to-LLMs.ipynb
-        - file: lectures/notes/19_intro_to_computer-vision.ipynb
-        - file: lectures/notes/20_time-series.ipynb
-        - file: lectures/notes/21_survival-analysis.ipynb
-        - file: lectures/notes/22_communication.ipynb
-        - file: lectures/notes/23_ethics.md
-        - file: lectures/notes/24_deployment-conclusion.ipynb
-        - file: lectures/notes/final-exam-review-guiding-question.ipynb
+    #     - file: lectures/notes/02_terminology-decision-trees.ipynb
+    #     - file: lectures/notes/03_ml-fundamentals.ipynb
+    #     - file: lectures/notes/04_kNNs-SVM-RBF.ipynb
+    #     - file: lectures/notes/05_preprocessing-pipelines.ipynb
+    #     - file: lectures/notes/06_column-transformer-text-feats.ipynb
+    #     - file: lectures/notes/07_linear-models.ipynb
+    #     - file: lectures/notes/08_hyperparameter-optimization.ipynb
+    #     - file: lectures/notes/09_classification-metrics.ipynb
+    #     - file: lectures/notes/10_regression-metrics.ipynb
+    # - title: Part 2
+    #   children:
+    #     - file: lectures/notes/11_ensembles.ipynb
+    #     - file: lectures/notes/12_feat-importances.ipynb
+    #     - file: lectures/notes/13_feature-engineering-selection.ipynb
+    #     - file: lectures/notes/14_K-Means.ipynb
+    #     - file: lectures/notes/15_DBSCAN-hierarchical.ipynb
+    #     - file: lectures/notes/16_recommender-systems.ipynb
+    # - title: Part 3
+    #   children:
+    #     - file: lectures/notes/17_natural-language-processing.ipynb
+    #     - file: lectures/notes/18_Intro-to-LLMs.ipynb
+    #     - file: lectures/notes/19_intro_to_computer-vision.ipynb
+    #     - file: lectures/notes/20_time-series.ipynb
+    #     - file: lectures/notes/21_survival-analysis.ipynb
+    #     - file: lectures/notes/22_communication.ipynb
+    #     - file: lectures/notes/23_ethics.md
+    #     - file: lectures/notes/24_deployment-conclusion.ipynb
+    #     - file: lectures/notes/final-exam-review-guiding-question.ipynb
     # - title: Section slides
     #   children:
     #     # - file: lectures/101&103-Giulia-lectures/README
@@ -113,63 +113,63 @@ project:
     #     #     - file: lectures/101-103-Giulia-lectures/21_communication.ipynb
     #     #     # - file: lectures/101-103-Giulia-lectures/lec23
     #     #     #   title: Lecture 23
-    - file: lectures/Firas/README.md
-      title: Section 202 Slides
-      children:
-        - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-          title: Lecture 1
-        - url: https://firasm.github.io/cpsc330-slides/slides-02.html
-          title: Lecture 2
-        - url: https://firasm.github.io/cpsc330-slides/slides-03.html
-          title: Lecture 3
-        - url: https://firasm.github.io/cpsc330-slides/slides-04.html
-          title: Lecture 4
-        - url: https://firasm.github.io/cpsc330-slides/slides-05.html
-          title: Lecture 5
-        # - url: https://firasm.github.io/cpsc330-slides/slides-06.html
-        #   title: Lecture 6
-        # - url: https://firasm.github.io/cpsc330-slides/slides-07.html
-        #   title: Lecture 7
-        - url: https://firasm.github.io/cpsc330-slides/slides-08.html
-          title: Lecture 8
-        - url: https://firasm.github.io/cpsc330-slides/slides-09.html
-          title: Lecture 9
-        - url: https://firasm.github.io/cpsc330-slides/slides-10.html
-          title: Lecture 10
-        - url: https://firasm.github.io/cpsc330-slides/slides-11.html
-          title: Lecture 11
-        - url: https://firasm.github.io/cpsc330-slides/slides-12.html
-          title: Lecture 12
-        - url: https://firasm.github.io/cpsc330-slides/slides-13.html
-          title: Lecture 13
-        - url: https://firasm.github.io/cpsc330-slides/slides-14.html
-          title: Lecture 14
-        - url: https://firasm.github.io/cpsc330-slides/slides-15.html
-          title: Lecture 15
-        - url: https://firasm.github.io/cpsc330-slides/slides-16.html
-          title: Lecture 16
-        - url: https://firasm.github.io/cpsc330-slides/slides-17.html
-          title: Lecture 17
-        # - url: https://firasm.github.io/cpsc330-slides/slides-18.html
-        #   title: Lecture 18
-        - url: https://firasm.github.io/cpsc330-slides/slides-19.html
-          title: Lecture 19
-        - url: https://firasm.github.io/cpsc330-slides/slides-20.html
-          title: Lecture 20
-        - url: https://firasm.github.io/cpsc330-slides/slides-21.html
-          title: Lecture 21
-        - url: https://firasm.github.io/cpsc330-slides/slides-22.html
-          title: Lecture 22
-        - file: lectures/notes/23_ethics.md
-          title: Lecture 23
-        - url: https://firasm.github.io/cpsc330-slides/slides-24.html
-          title: Lecture 24
-    - title: Appendix
-      children:
-        - file: lectures/notes/AppendixA.ipynb
-        - file: lectures/notes/AppendixB.ipynb
-        - file: lectures/notes/AppendixC.ipynb
-        - file: lectures/notes/AppendixD.ipynb
+    # - file: lectures/Firas/README.md
+    #   title: Section 202 Slides
+    #   children:
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+    #       title: Lecture 1
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-02.html
+    #       title: Lecture 2
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-03.html
+    #       title: Lecture 3
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-04.html
+    #       title: Lecture 4
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-05.html
+    #       title: Lecture 5
+    #     # - url: https://firasm.github.io/cpsc330-slides/slides-06.html
+    #     #   title: Lecture 6
+    #     # - url: https://firasm.github.io/cpsc330-slides/slides-07.html
+    #     #   title: Lecture 7
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-08.html
+    #       title: Lecture 8
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-09.html
+    #       title: Lecture 9
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-10.html
+    #       title: Lecture 10
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-11.html
+    #       title: Lecture 11
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-12.html
+    #       title: Lecture 12
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-13.html
+    #       title: Lecture 13
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-14.html
+    #       title: Lecture 14
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-15.html
+    #       title: Lecture 15
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-16.html
+    #       title: Lecture 16
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-17.html
+    #       title: Lecture 17
+    #     # - url: https://firasm.github.io/cpsc330-slides/slides-18.html
+    #     #   title: Lecture 18
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-19.html
+    #       title: Lecture 19
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-20.html
+    #       title: Lecture 20
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-21.html
+    #       title: Lecture 21
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-22.html
+    #       title: Lecture 22
+    #     - file: lectures/notes/23_ethics.md
+    #       title: Lecture 23
+    #     - url: https://firasm.github.io/cpsc330-slides/slides-24.html
+    #       title: Lecture 24
+    # - title: Appendix
+    #   children:
+    #     - file: lectures/notes/AppendixA.ipynb
+    #     - file: lectures/notes/AppendixB.ipynb
+    #     - file: lectures/notes/AppendixC.ipynb
+    #     - file: lectures/notes/AppendixD.ipynb
     - file: LICENSE.md
       title: Attribution
 site:
