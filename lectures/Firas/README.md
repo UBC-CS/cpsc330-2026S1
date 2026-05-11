@@ -1,4 +1,4 @@
-# Section 202
+# Class Slides
 
 Hello!
 

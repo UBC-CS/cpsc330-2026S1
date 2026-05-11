@@ -49,7 +49,8 @@ project:
         #     - file: docs/python_notes.ipynb
         #     - file: docs/resources.md
         # - file: docs/README.md
-    - title: Part 1 - Fundamentals
+
+    - title: Course Notes - Part 1 (Fundamentals)
       children:
         - file: lectures/notes/01_intro.ipynb
     #     - file: lectures/notes/02_terminology-decision-trees.ipynb
@@ -80,44 +81,11 @@ project:
     #     - file: lectures/notes/23_ethics.md
     #     - file: lectures/notes/24_deployment-conclusion.ipynb
     #     - file: lectures/notes/final-exam-review-guiding-question.ipynb
-    # - title: Section slides
-    #   children:
-    #     # - file: lectures/101&103-Giulia-lectures/README
-    #     #   children:
-    #     #     - file: lectures/101-103-Giulia-lectures/01_intro.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/02_terminology-decision-trees.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/03_ml-fundamentals.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/04_kNNs-SVM-RBF.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/05_preprocessing-pipelines.ipynb
-    #     #     - file: >-
-    #     #         lectures/101-103-Giulia-lectures/06_column-transformer-text-feats.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/07_linear-models.ipynb
-    #     #     - file: >-
-    #     #         lectures/101-103-Giulia-lectures/08_hyperparameter-optimization.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/09-classification-metrics-short.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/10_regression-metrics.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/11_ensembles.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/12_feat-importances.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/13_feature-engineering-selection.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/14_K-Means.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/15_DBSCAN-hierarchical.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/16_recommender-systems.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/17_natural-language-processing.ipynb
-    #     #     - url: https://firasm.github.io/cpsc330-slides/slides-17
-    #     #       title: Lecture 17
-    #     #     - url: https://firasm.github.io/cpsc330-slides/slides-18
-    #     #       title: Lecture 18
-    #     #     - file: lectures/101-103-Giulia-lectures/18_intro_to_computer-vision.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/19_time-series.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/20_survival-analysis.ipynb
-    #     #     - file: lectures/101-103-Giulia-lectures/21_communication.ipynb
-    #     #     # - file: lectures/101-103-Giulia-lectures/lec23
-    #     #     #   title: Lecture 23
-    # - file: lectures/Firas/README.md
-    #   title: Section 202 Slides
-    #   children:
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-    #       title: Lecture 1
+    - file: lectures/Firas/README.md
+      title: Class Slides
+      children:
+        - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+          title: Lecture 1
     #     - url: https://firasm.github.io/cpsc330-slides/slides-02.html
     #       title: Lecture 2
     #     - url: https://firasm.github.io/cpsc330-slides/slides-03.html
