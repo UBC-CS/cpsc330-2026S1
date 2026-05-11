@@ -33,6 +33,8 @@ project:
       children:
         - file: syllabus.md
         - title: About CPSC 330
+        - url: https://us.prairielearn.com/pl/course_instance/215839/assessment/2682686
+          title: PrairieLearn
         #   children:
         #     - file: learning-objectives.md
         #     - file: docs/330_vs_340.md
