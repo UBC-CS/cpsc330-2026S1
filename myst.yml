@@ -140,6 +140,13 @@ project:
     #     - file: lectures/notes/AppendixB.ipynb
     #     - file: lectures/notes/AppendixC.ipynb
     #     - file: lectures/notes/AppendixD.ipynb
+    - file: lectures/tutorials/README.md
+      title: Tutorials
+      children:
+        - file: lectures/tutorials/00_tutorial0.md
+          title: Tutorial 0
+        - file: lectures/tutorials/01_decision_boundaries.ipynb
+          title: Tutorial 1
     - file: LICENSE.md
       title: Attribution
 site:
