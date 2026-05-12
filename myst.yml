@@ -94,6 +94,10 @@ project:
           sections:
           - url: https://firasm.github.io/cpsc330-slides/slides-02.html
             title: Lecture 2 Slides
+        - file: lectures/classes/class1C
+          sections:
+          - url: https://firasm.github.io/cpsc330-slides/slides-03.html
+            title: Lecture 3 Slides
     #     - url: https://firasm.github.io/cpsc330-slides/slides-03.html
     #       title: Lecture 3
     #     - url: https://firasm.github.io/cpsc330-slides/slides-04.html
