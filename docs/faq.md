@@ -21,7 +21,7 @@ Please read our full [Generative AI usage policy](https://ubc-cs.github.io/cpsc3
 - **You are responsible** for any errors ("hallucinations") the tool produces.
 
 ## How do I submit homework assignments?  
-All assignments are submitted on Gradescope. Detailed instructions are provided on the [course website](https://ubc-cs.github.io/cpsc330-2026S1/docs/homework-instructions). Make sure to follow them carefully.
+All assignments are submitted on PrairieLearn. Detailed instructions are provided on the [course website](https://ubc-cs.github.io/cpsc330-2026S1/docs/homework-instructions). Make sure to follow them carefully.
 
 ## I'm on the waitlist. How likely am I to get into this course?  
 We don't control the waitlist, but here are some things to keep in mind:  

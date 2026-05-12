@@ -70,7 +70,7 @@ This course will be run in a semi flipped classroom format. There will be pre-wa
 ## Deliverable due dates (tentative)
 Usually the homework assignments will be due on Mondays and will be released on Tuesdays (the links below will lead to a "page not found" if the assignment has not been published yet).  
 
-**Important: use the link in the Canvas course to access Gradescope for the first time, so that your accounts are correctly linked. Failing to do so will result in delays in getting your grades and risk of miscalculations.**
+<!-- **Important: use the link in the Canvas course to access Gradescope for the first time, so that your accounts are correctly linked. Failing to do so will result in delays in getting your grades and risk of miscalculations.** -->
 
 | Assessment     | Due date         | Where to find?                                                                           | Where to submit?                                                                         |
 |----------------|------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
