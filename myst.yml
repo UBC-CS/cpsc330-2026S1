@@ -52,11 +52,11 @@ project:
             - file: docs/resources.md
         - file: docs/README.md
 
-    - title: Course Notes - Part 1 (Fundamentals)
+    - title: Course Notes - Part 1
       children:
         - file: lectures/notes/01_intro.ipynb
-    #     - file: lectures/notes/02_terminology-decision-trees.ipynb
-    #     - file: lectures/notes/03_ml-fundamentals.ipynb
+        - file: lectures/notes/02_terminology-decision-trees.ipynb
+        - file: lectures/notes/03_ml-fundamentals.ipynb
     #     - file: lectures/notes/04_kNNs-SVM-RBF.ipynb
     #     - file: lectures/notes/05_preprocessing-pipelines.ipynb
     #     - file: lectures/notes/06_column-transformer-text-feats.ipynb
@@ -86,8 +86,10 @@ project:
     - file: lectures/Firas/README.md
       title: Class Slides
       children:
-        - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-          title: Lecture 1
+        - file: lectures/classes/class1A
+          sections:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Lecture 1 Slides
     #     - url: https://firasm.github.io/cpsc330-slides/slides-02.html
     #       title: Lecture 2
     #     - url: https://firasm.github.io/cpsc330-slides/slides-03.html

@@ -18,6 +18,23 @@ Below are the assigned videos for this week.
 </div>
 ```
 
+::::{details} 1. Introduction to Machine Learning
+:class: sd-shadow-lg
+:open:
+
+<div class="container youtube">
+<iframe
+  class="responsive-iframe"
+  src="https://www.youtube.com/embed/-1hTcS5ZE4w?si=LfQZuyHRaAhvBaTb"
+  frameborder="0"
+  allow="accelerometer; autoplay; gyroscope; picture-in-picture; fullscreen"
+  allowfullscreen>
+</iframe>
+</div>
+
+::::
+
+
 ## Class Slides
 
 <div>
