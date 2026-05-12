@@ -84,14 +84,16 @@ project:
     #     - file: lectures/notes/24_deployment-conclusion.ipynb
     #     - file: lectures/notes/final-exam-review-guiding-question.ipynb
     - file: lectures/Firas/README.md
-      title: Class Slides
+      title: Class Meetings
       children:
         - file: lectures/classes/class1A
           sections:
           - url: https://firasm.github.io/cpsc330-slides/slides-01.html
             title: Lecture 1 Slides
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-02.html
-    #       title: Lecture 2
+        - file: lectures/classes/class1B
+          sections:
+          - url: https://firasm.github.io/cpsc330-slides/slides-02.html
+            title: Lecture 2 Slides
     #     - url: https://firasm.github.io/cpsc330-slides/slides-03.html
     #       title: Lecture 3
     #     - url: https://firasm.github.io/cpsc330-slides/slides-04.html

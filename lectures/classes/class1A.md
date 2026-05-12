@@ -6,34 +6,15 @@ We will leave the website open even after the course is over for a reasonable nu
 
 ## Pre-lecture Videos
 
-Below are the assigned videos for this week.
+Below are the assigned videos for this class.
 
-```{dropdown} 1. Introduction to Machine Learning
-    :class-container: sd-shadow-lg
-    :color: primary
-    :open:
-
+:::{dropdown} 1. Introduction to Machine Learning
+:open:
+:class: primary
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/-1hTcS5ZE4w?si=LfQZuyHRaAhvBaTb" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 </div>
-```
-
-::::{details} 1. Introduction to Machine Learning
-:class: sd-shadow-lg
-:open:
-
-<div class="container youtube">
-<iframe
-  class="responsive-iframe"
-  src="https://www.youtube.com/embed/-1hTcS5ZE4w?si=LfQZuyHRaAhvBaTb"
-  frameborder="0"
-  allow="accelerometer; autoplay; gyroscope; picture-in-picture; fullscreen"
-  allowfullscreen>
-</iframe>
-</div>
-
-::::
-
+:::
 
 ## Class Slides
 
