@@ -1,9 +1,8 @@
 # Homework info & submission guidelines
 
-You will be submitting your homework assignments on Gradescope.
-Check out [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-student-guide/). 
+You will be submitting your homework assignments on PrairieLearn.
 
-## Accessing homework assignments
+<!-- ## Accessing homework assignments
 
 Each homework assignment will be made available on the [course GitHub page](https://github.com/UBC-CS/cpsc330-2026S1?tab=readme-ov-file#deliverable-due-dates-tentative) under the "Where to find?" column under the "Deliverable due dates" section.
 You can also find the list of released (public) repositories [here](https://github.com/orgs/ubc-cpsc330/repositories).
@@ -29,11 +28,11 @@ Here are the steps to create a repository for the released homework assignment.
 
 1. Clone the repository locally.
 
-1. Complete your assignment, then commit and push your change to GitHub.
+1. Complete your assignment, then commit and push your change to GitHub. -->
 
 ## How to submit
 
-When you're ready to submit your assignment, make sure all your work in the Jupyter Notebook is saved, all changes in the repository are committed, and you've pushed up to GitHub.
+When you're ready to submit your assignment on PrairieLearn, make sure all your work in the Jupyter Notebook is saved, and then click "Save and Grade" on PrairieLearn.
 
 ### Preparation
 
@@ -41,7 +40,7 @@ When you're ready to submit your assignment, make sure all your work in the Jupy
 
 1. Notebooks with cell execution numbers out of order or not starting from "1" will have marks deducted. Notebooks without the output displayed may not be graded at all (because we need to see the output in order to grade your work).
 
-### Submitting on Gradescope
+<!-- ### Submitting on Gradescope
 
 1. Upload the assignment using Gradescope's drag and drop tool. Make sure to access Gradescope via Canvas. Check out this [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-student-guide/) if you need help with your Gradescope submission.
 
@@ -65,7 +64,7 @@ Once you submit to Gradescope, you should go there and ensure your assignment is
 
 ### Datasets
 
-Unless otherwise noted, if you download a dataset for your assignment, when you submit the dataset, the dataset will likely be removed from your submission, please do **not** submit the datasets. (If the dataset in bundled with the assignment, then it's fine to leave it there.)
+Unless otherwise noted, if you download a dataset for your assignment, when you submit the dataset, the dataset will likely be removed from your submission, please do **not** submit the datasets. (If the dataset in bundled with the assignment, then it's fine to leave it there.) -->
 
 ### Report format
 

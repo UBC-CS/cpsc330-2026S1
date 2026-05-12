@@ -33,24 +33,24 @@ project:
       children:
         - file: syllabus.md
         - title: About CPSC 330
+          children:
+            - file: learning-objectives.md
+            - file: docs/330_vs_340.md
         - url: https://us.prairielearn.com/pl/course_instance/215839/assessment/2682686
           title: PrairieLearn
-        #   children:
-        #     - file: learning-objectives.md
-        #     - file: docs/330_vs_340.md
-        # - title: Setup
-        #   children:
-        #     - file: docs/git_installation.md
-        #     - file: docs/setup.md
-        #     - file: docs/homework_instructions.md
-        # - title: Resources
-        #   children:
-        #     - file: docs/faq.md
-        #     - file: docs/grades.md
-        #     - file: docs/asking_for_help.md
-        #     - file: docs/python_notes.ipynb
-        #     - file: docs/resources.md
-        # - file: docs/README.md
+        - title: Setup
+          children:
+            - file: docs/git_installation.md
+            - file: docs/setup.md
+            - file: docs/homework_instructions.md
+        - title: Resources
+          children:
+            - file: docs/faq.md
+            - file: docs/grades.md
+            - file: docs/asking_for_help.md
+            - file: docs/python_notes.ipynb
+            - file: docs/resources.md
+        - file: docs/README.md
 
     - title: Course Notes - Part 1 (Fundamentals)
       children:

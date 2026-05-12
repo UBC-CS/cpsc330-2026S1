@@ -1,7 +1,7 @@
 # CPSC 330 grading policies
 
 ## General guidelines
-- **Assignment grading concerns**: All grading concerns and challenges related to assignments must be reported opening a regrade request on Gradescope
+- **Assignment grading concerns**: All grading concerns and challenges related to assignments must be reported opening a regrade request on PrairieLearn (by reporting an issue with this question)
 - Exam grading concerns: All grading concerns and challenges related to the midterms must be reported through the exam platform (Prairielearn) during exam viewings, which must be scheduled with the CBTF after each exam. More details about this will be communicated as we get closer to the midterms.
 
 ## Grading concerns: time limit
