@@ -105,7 +105,7 @@ We'll be developing lecture notes directly in this repository. So if you check t
 | 3 | May 15 | ML fundamentals | 📹 Pre-watch: [3.1](https://youtu.be/iS2hsRRlc2M), [3.2](https://youtu.be/h2AEobwcUQw), [3.3](https://youtu.be/4cv8VYonepA), [3.4](https://youtu.be/Ihay8yE5KTI) | similar |
 | 4 | May 15 | $k$-NNs and SVM with RBF kernel | 📹 Pre-watch: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg),  [4.3](https://youtu.be/IRGbqi5S9gQ), [4.4](https://youtu.be/ic_zqOhi020) | less depth |
 | 5 | May 20 | Preprocessing, `sklearn` pipelines | 📹  Pre-watch: [5.1](https://youtu.be/xx9HlmzORRk), [5.2](https://youtu.be/G2IXbVzKlt8), [5.3](https://youtu.be/nWTce7WJSd4), [5.4](https://youtu.be/2mJ9rAhMMl0)  |  more depth|
-| Test 1 | May 21-23 | - |- |- |
+| Test 1 |  | May 21-23 |- |- |
 | 6 | May 20 | More preprocessing, `sklearn` `ColumnTransformer`, text features | 📹  Pre-watch: [6.1](https://youtu.be/to2mukSyvLk), [6.2](https://youtu.be/hteVvLwrWZ4) | more depth |
 | 7 | May 22 | Linear models | 📹  Pre-watch: [7.1](https://youtu.be/HXd1U2q4VFA), [7.2](https://youtu.be/56L5z_t22qE), [7.3](https://youtu.be/_OAK5KiGLg0) | less depth |
 | 8 | May 22 | Hyperparameter optimization, overfitting the validation set | 📹 Pre-watch: [8.1](https://youtu.be/lMWdHZSZMk8), [8.2](https://youtu.be/Z9a9XZ0vQv0) |   different|
@@ -113,13 +113,13 @@ We'll be developing lecture notes directly in this repository. So if you check t
 | 10 | May 25 | Regression metrics |  📹 Pre-watch: [10.1](https://youtu.be/lgGTKLwNgkQ) |   more depth on metrics less depth on regression|
 | 11 | May 27 | Ensembles |  📹 Pre-watch: [11.1](https://youtu.be/8litm1H7DLo), [11.2](https://youtu.be/EkFkY9QB2Hw) | similar |
 | 12 | May 27 | Feature importances, model interpretation | 📹 Pre-watch: [12.1](https://youtu.be/xfICsGL7DXE),[12.2](https://youtu.be/tiSN18OmZOo)| feature importances is new, feature engineering is new |
-| Test 2 | May 28-30 | - |- |- |
+| Test 2 | | May 28-30 |- |- |
 | 13 | May 29 | Feature engineering and feature selection | None | less depth |
 | 14 | Jun 1 | Clustering |  📹 Pre-watch: [14.1](https://youtu.be/caAuUAXwpb8), [14.2](https://youtu.be/s6AvSZ1_l7I), [14.3](https://youtu.be/M5ilrhcL0oY)  | less depth |
 | 15 | Jun 1 | More clustering |  📹 Pre-watch: [15.1](https://youtu.be/1ZwITQyWpkY), [15.2](https://youtu.be/T4NLsrUaRtg), [15.3](https://youtu.be/NM8lFKFZ2IU)   | less depth |
 | 16 | Jun 3 | Simple recommender systems | | less depth ||
 | 17 | Jun 3 | Text data, embeddings, topic modeling  | 📹 Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY), [16.2](https://youtu.be/7W5Q8gzNPBc)  |   new |
-| Test 3 | Jun 4-6 | - |- |- |
+| Test 3 |  | Jun 4-6 |- |- |
 | - | Jun 5| *No Class* |- | |
 | 18 | Jun 8 | Introduction to LLMs | | |
 | 19 | Jun 8 | Neural networks and computer vision | |   less depth |
