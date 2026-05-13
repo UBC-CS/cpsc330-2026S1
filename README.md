@@ -98,38 +98,36 @@ This course will be run in a semi flipped classroom format. There will be pre-wa
 
 We'll be developing lecture notes directly in this repository. So if you check them before the lecture, they might be in a draft form. Once they are finalized, they will be posted in the [Course Jupyter book](https://ubc-cs.github.io/cpsc330-2026S1).
 
-| Date   | Topic |  Assigned videos | vs. CPSC 340 |
-|--------|-----------|-------------------------|------------------|
-| Jan 06 | Course intro | 📹 Pre-watch: [1.0](https://youtu.be/-1hTcS5ZE4w) | n/a |
-
-<!-- 
-| Jan 08 | Decision trees | 📹 Pre-watch: [2.1](https://youtu.be/YNT8n4cXu4A), [2.2](https://youtu.be/6eT5cLL-2Vc), [2.3](https://youtu.be/Hcf19Ij35rA), [2.4](https://youtu.be/KEtsfXn4w2E) |   less depth | 
-| Jan 13 | ML fundamentals | 📹 Pre-watch: [3.1](https://youtu.be/iS2hsRRlc2M), [3.2](https://youtu.be/h2AEobwcUQw), [3.3](https://youtu.be/4cv8VYonepA), [3.4](https://youtu.be/Ihay8yE5KTI) | similar |
-| Jan 15 | $k$-NNs and SVM with RBF kernel | 📹 Pre-watch: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg),  [4.3](https://youtu.be/IRGbqi5S9gQ), [4.4](https://youtu.be/ic_zqOhi020) | less depth |
-| Jan 20 | Preprocessing, `sklearn` pipelines | 📹  Pre-watch: [5.1](https://youtu.be/xx9HlmzORRk), [5.2](https://youtu.be/G2IXbVzKlt8), [5.3](https://youtu.be/nWTce7WJSd4), [5.4](https://youtu.be/2mJ9rAhMMl0)  |  more depth|
-| Jan 22 | More preprocessing, `sklearn` `ColumnTransformer`, text features | 📹  Pre-watch: [6.1](https://youtu.be/to2mukSyvLk), [6.2](https://youtu.be/hteVvLwrWZ4) | more depth |
-| Jan 27 | Linear models | 📹  Pre-watch: [7.1](https://youtu.be/HXd1U2q4VFA), [7.2](https://youtu.be/56L5z_t22qE), [7.3](https://youtu.be/_OAK5KiGLg0) | less depth |
-| Jan 29 | Hyperparameter optimization, overfitting the validation set | 📹 Pre-watch: [8.1](https://youtu.be/lMWdHZSZMk8), [8.2](https://youtu.be/Z9a9XZ0vQv0) |   different|
-| Feb 03 | Evaluation metrics for classification  | 📹  Reference: [9.2](https://youtu.be/ZCuCErW5lI8), [9.3](https://youtu.be/XkCTUuoH23c),[9.4](https://youtu.be/jHaKRCFb6Qw) | more depth |
-| Feb 05 | Regression metrics |  📹 Pre-watch: [10.1](https://youtu.be/lgGTKLwNgkQ) |   more depth on metrics less depth on regression|
-| Feb 9-11 | _Midterm 1 - no class, no office hours, no tutorials_| |
-| Feb 12 | Ensembles |  📹 Pre-watch: [11.1](https://youtu.be/8litm1H7DLo), [11.2](https://youtu.be/EkFkY9QB2Hw) | similar |
-| Feb 16-20 | _Midterm break - no class, no tutorials_ | | |
-| Feb 24 | Feature importances, model interpretation | 📹 Pre-watch: [12.1](https://youtu.be/xfICsGL7DXE),[12.2](https://youtu.be/tiSN18OmZOo)| feature importances is new, feature engineering is new |
-| Feb 26 | Feature engineering and feature selection | None | less depth |
-| Mar 03 | Clustering |  📹 Pre-watch: [14.1](https://youtu.be/caAuUAXwpb8), [14.2](https://youtu.be/s6AvSZ1_l7I), [14.3](https://youtu.be/M5ilrhcL0oY)  | less depth |
-| Mar 05 | More clustering |  📹 Pre-watch: [15.1](https://youtu.be/1ZwITQyWpkY), [15.2](https://youtu.be/T4NLsrUaRtg), [15.3](https://youtu.be/NM8lFKFZ2IU)   | less depth |
-| Mar 10 | Simple recommender systems | | less depth ||
-| Mar 12 | Text data, embeddings, topic modeling  | 📹 Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY), [16.2](https://youtu.be/7W5Q8gzNPBc)  |   new |
-| Mar 16-18 | _Midterm 2 - no class, no office hours (YES tutorials)_| |
-| Mar 19 | Introduction to LLMs | | |
-| Mar 24 | Neural networks and computer vision | |   less depth |
-| Mar 26 | Time series data | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
-| Mar 31 | Survival analysis | 📹 (Optional but highly recommended)[Calling Bullshit 4.1: Right Censoring](https://www.youtube.com/watch?v=ITWQ5psx9Sw)|   new |
-| Apr 02 | Communication | 📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total)</li> <li>[Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min)</li> |   new |
-| Apr 07 | Ethics |   📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total)</li> <li>[The ethics of data science](http://jtleek.com/ads2020/week-15.html)</li>| new |
-| Apr 09 | Model deployment and conclusion |  |  new |
- -->
+| # | Date   | Topic |  Assigned videos | vs. CPSC 340 |
+| - |--------|-----------|-------------------------|------------------|
+| 1 | May 11 | Course intro | 📹 Pre-watch: [1.0](https://youtu.be/-1hTcS5ZE4w) | n/a |
+| 2 | May 13 | Decision trees | 📹 Pre-watch: [2.1](https://youtu.be/YNT8n4cXu4A), [2.2](https://youtu.be/6eT5cLL-2Vc), [2.3](https://youtu.be/Hcf19Ij35rA), [2.4](https://youtu.be/KEtsfXn4w2E) |   less depth | 
+| 3 | May 15 | ML fundamentals | 📹 Pre-watch: [3.1](https://youtu.be/iS2hsRRlc2M), [3.2](https://youtu.be/h2AEobwcUQw), [3.3](https://youtu.be/4cv8VYonepA), [3.4](https://youtu.be/Ihay8yE5KTI) | similar |
+| 4 | May 15 | $k$-NNs and SVM with RBF kernel | 📹 Pre-watch: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg),  [4.3](https://youtu.be/IRGbqi5S9gQ), [4.4](https://youtu.be/ic_zqOhi020) | less depth |
+| 5 | May 20 | Preprocessing, `sklearn` pipelines | 📹  Pre-watch: [5.1](https://youtu.be/xx9HlmzORRk), [5.2](https://youtu.be/G2IXbVzKlt8), [5.3](https://youtu.be/nWTce7WJSd4), [5.4](https://youtu.be/2mJ9rAhMMl0)  |  more depth|
+| Test 1 | - | - |- |- |
+| 6 | May 20 | More preprocessing, `sklearn` `ColumnTransformer`, text features | 📹  Pre-watch: [6.1](https://youtu.be/to2mukSyvLk), [6.2](https://youtu.be/hteVvLwrWZ4) | more depth |
+| 7 | May 22 | Linear models | 📹  Pre-watch: [7.1](https://youtu.be/HXd1U2q4VFA), [7.2](https://youtu.be/56L5z_t22qE), [7.3](https://youtu.be/_OAK5KiGLg0) | less depth |
+| 8 | May 22 | Hyperparameter optimization, overfitting the validation set | 📹 Pre-watch: [8.1](https://youtu.be/lMWdHZSZMk8), [8.2](https://youtu.be/Z9a9XZ0vQv0) |   different|
+| 9 | May 25 | Evaluation metrics for classification  | 📹  Reference: [9.2](https://youtu.be/ZCuCErW5lI8), [9.3](https://youtu.be/XkCTUuoH23c),[9.4](https://youtu.be/jHaKRCFb6Qw) | more depth |
+| 10 | May 25 | Regression metrics |  📹 Pre-watch: [10.1](https://youtu.be/lgGTKLwNgkQ) |   more depth on metrics less depth on regression|
+| 11 | May 27 | Ensembles |  📹 Pre-watch: [11.1](https://youtu.be/8litm1H7DLo), [11.2](https://youtu.be/EkFkY9QB2Hw) | similar |
+| 12 | May 27 | Feature importances, model interpretation | 📹 Pre-watch: [12.1](https://youtu.be/xfICsGL7DXE),[12.2](https://youtu.be/tiSN18OmZOo)| feature importances is new, feature engineering is new |
+| Test 2 | - | - |- |- |
+| 13 | May 29 | Feature engineering and feature selection | None | less depth |
+| 14 | Jun 1 | Clustering |  📹 Pre-watch: [14.1](https://youtu.be/caAuUAXwpb8), [14.2](https://youtu.be/s6AvSZ1_l7I), [14.3](https://youtu.be/M5ilrhcL0oY)  | less depth |
+| 15 | Jun 1 | More clustering |  📹 Pre-watch: [15.1](https://youtu.be/1ZwITQyWpkY), [15.2](https://youtu.be/T4NLsrUaRtg), [15.3](https://youtu.be/NM8lFKFZ2IU)   | less depth |
+| 16 | Jun 3 | Simple recommender systems | | less depth ||
+| 17 | Jun 3 | Text data, embeddings, topic modeling  | 📹 Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY), [16.2](https://youtu.be/7W5Q8gzNPBc)  |   new |
+| Test 3 | - | - |- |- |
+| - | Jun 5| *No Class* |- | |
+| 18 | Jun 8 | Introduction to LLMs | | |
+| 19 | Jun 8 | Neural networks and computer vision | |   less depth |
+| 20 | Jun 10 | Time series data | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
+| 21 | Jun 12 | Survival analysis | 📹 (Optional but highly recommended)[Calling Bullshit 4.1: Right Censoring](https://www.youtube.com/watch?v=ITWQ5psx9Sw)|   new |
+| 22 | Jun 15 | Communication | 📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total)</li> <li>[Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min)</li> |   new |
+| 23 | Jun 15 | Ethics |   📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total)</li> <li>[The ethics of data science](http://jtleek.com/ads2020/week-15.html)</li>| new |
+| 24 | Jun 17 | Model deployment and conclusion |  |  new |
 
 
 ## Reference Material

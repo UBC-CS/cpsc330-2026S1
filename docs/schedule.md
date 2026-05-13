@@ -37,35 +37,35 @@ This course will be run in a semi flipped classroom format. There will be pre-wa
 | June 16     | Ethics (L21)                                                           | 📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total)</li> <li>[The ethics of data science](http://jtleek.com/ads2020/week-15.html)</li>                                                                                                                                                               | new                                                    |
 | June 18     | Communication (L22) and LLMs (L23)                                               | 📹 Required: first 3 modules of <li>[MODERN-DAY ORACLES or BULLSHIT MACHINES?](https://thebullshitmachines.com/index.html)</li> Optional but highly recommended <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total)</li> <li>[Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min)</li> | new                                                    |
 
-### Summer Teaching Schedule (tenative)
+### Summer Teaching Schedule (tentative)
 
 
-- Mon May 12: Intro & Lecture 1
-- Wed May 14: Lectures 2
-- Fri May 16: Lectures 3 & 4
-- Mon May 19: **Holiday**
-- Wed May 21: Lectures 5 & 6
+- Mon May 11: Intro & Lecture 1
+- Wed May 13: Lectures 2
+- Fri May 15: Lectures 3 (hw2) & 4
+- Mon May 18: **Holiday**
+- Wed May 20: Lectures 5 & 6 (hw3)
 
 #### Test 1 ; Lectures 1-6 ; Fri - Mon
 
-- Fri May 23: Lectures 7 & 8
-- Mon May 26: Lectures 9 & 10
-- Wed May 28: Lectures 11
+- Fri May 22: Lectures 7 & 8 (hw4)
+- Mon May 25: Lectures 9 & 10
+- Wed May 27: Lectures 11 & 12
 
-#### Test 2 ; Lectures 7-11 ; Fri - Mon
+#### Test 2 ; Lectures 7-12 ; Fri - Mon
 
-- Fri May 30: Lectures 12
-- Mon June 2: Lectures 13
-- Wed June 4: Lectures 14 & 15
-- Fri June 6: Lectures 16 & 17
+- Fri May 29: Lectures 13 (hw5)
+- Mon June 1: Lectures 14 & 15 (hw6)
+- Wed June 3: Lectures 16 & 17 (hw7)
+- Fri June 5: 
      
-#### Test 3 - ; Lectures 12-17 ; Fri - Mon
+#### Test 3 - ; Lectures 13-17 ; Fri - Mon
 
-- Mon June 9: Lectures 18 & 19
-- Wed June 11: Lectures 20 & 21
-- Fri June 13: 
-- Mon June 16: 
-- Wed June 18: Lectures 22 & 23
+- Mon June 8: Lectures 18 & 19
+- Wed June 10: Lectures 20 (hw8)
+- Fri June 12: Lecture 21 (hw9)
+- Mon June 15: Lectures 22 & 23
+- Wed June 17: Lecture 24
 
 ## Deliverable due dates (tentative)
 Usually the homework assignments will be due on Mondays and will be released on Tuesdays (the links below will lead to a "page not found" if the assignment has not been published yet).  
