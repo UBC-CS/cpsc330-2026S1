@@ -67,7 +67,22 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 
 ## Deliverable due dates (tentative)
 
-TBD...
+| Assessment     | Due date             | Notes              |
+|----------------|----------------------|--------------------|
+| Syllabus quiz  | Sat May 16, 23:59    | PrairieLearn       |
+| hw1            | Sat May 16, 23:59    | PrairieLearn       |
+| hw2            | Wed May 20, 23:59    | PrairieLearn       |
+| **Midterm 1**  | May 21-23            | CBTF (PrairieTest) |
+| hw3            | Mon May 25, 23:59    | PrairieLearn       |
+| hw4            | Wed May 27, 23:59    | PrairieLearn       |
+| **Midterm 2**  | May 28-30            | CBTF (PrairieTest) |
+| hw5            | Mon June 1, 23:59    | PrairieLearn       |
+| hw6            | Wed June 3, 23:59    | PrairieLearn       |
+| **Midterm 3**  | June 4-6             | CBTF (PrairieTest) |
+| hw7            | Mon June 8, 23:59    | PrairieLearn       |
+| hw8            | Mon June 15, 23:59   | PrairieLearn       |
+| hw9            | Thurs June 18, 23:59 | PrairieLearn       |
+| **Final exam** | TBA                  | PrairieLearn       |
 
 <!-- 
 Usually the homework assignments will be due on Mondays (except next week) and will be released on Tuesdays. We'll also add the due dates in the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html). If you find inconsistencies in due dates, follow the due date in the Calendar. For this course, we'll assume that the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html) is always right!      
@@ -105,8 +120,8 @@ We'll be developing lecture notes directly in this repository. So if you check t
 | 3 | May 15 | ML fundamentals | 📹 Pre-watch: [3.1](https://youtu.be/iS2hsRRlc2M), [3.2](https://youtu.be/h2AEobwcUQw), [3.3](https://youtu.be/4cv8VYonepA), [3.4](https://youtu.be/Ihay8yE5KTI) | similar |
 | 4 | May 15 | $k$-NNs and SVM with RBF kernel | 📹 Pre-watch: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg),  [4.3](https://youtu.be/IRGbqi5S9gQ), [4.4](https://youtu.be/ic_zqOhi020) | less depth |
 | 5 | May 20 | Preprocessing, `sklearn` pipelines | 📹  Pre-watch: [5.1](https://youtu.be/xx9HlmzORRk), [5.2](https://youtu.be/G2IXbVzKlt8), [5.3](https://youtu.be/nWTce7WJSd4), [5.4](https://youtu.be/2mJ9rAhMMl0)  |  more depth|
-| Test 1 |  | May 21-23 |- |- |
 | 6 | May 20 | More preprocessing, `sklearn` `ColumnTransformer`, text features | 📹  Pre-watch: [6.1](https://youtu.be/to2mukSyvLk), [6.2](https://youtu.be/hteVvLwrWZ4) | more depth |
+| Test 1 |  | May 21-23 |- |- |
 | 7 | May 22 | Linear models | 📹  Pre-watch: [7.1](https://youtu.be/HXd1U2q4VFA), [7.2](https://youtu.be/56L5z_t22qE), [7.3](https://youtu.be/_OAK5KiGLg0) | less depth |
 | 8 | May 22 | Hyperparameter optimization, overfitting the validation set | 📹 Pre-watch: [8.1](https://youtu.be/lMWdHZSZMk8), [8.2](https://youtu.be/Z9a9XZ0vQv0) |   different|
 | 9 | May 25 | Evaluation metrics for classification  | 📹  Reference: [9.2](https://youtu.be/ZCuCErW5lI8), [9.3](https://youtu.be/XkCTUuoH23c),[9.4](https://youtu.be/jHaKRCFb6Qw) | more depth |
