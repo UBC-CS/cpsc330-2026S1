@@ -39,7 +39,7 @@ This course will be run in a semi flipped classroom format. There will be pre-wa
 
 ### Summer Teaching Schedule (tentative)
 
-- Mon May 11: Intro & Lecture 1
+- Mon May 11: Intro & Lecture 1 
 - Wed May 13: Lectures 2
 - Fri May 15: Lectures 3 (hw2) & 4
 - Mon May 18: **Holiday**

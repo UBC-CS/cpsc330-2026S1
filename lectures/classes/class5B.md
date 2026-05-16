@@ -1,52 +1,27 @@
 
 # Class Meeting 5B
 
-This was a review class and we finished off the last lecture.
-
-<!--
-
 Below are the required videos for today's class, as well as slides from class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
 We will leave the website open even after the course is over for a reasonable number of years.
-## Pre-lecture 14 Videos
 
-Below are the assigned videos for Lecture 14.
- 
-:::{dropdown} 1.  Model Interpretation Motivation
+## Pre-lecture 20 Videos
+
+:::{dropdown} 1. [Optional] Humour: The Problem with Time & Timezones
     :open:
     :class: primary
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/xfICsGL7DXE?si=oF5pSoQ8lngfW1Xn" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/-5wpm-gesOY?si=palcGWSNun7XtFpf" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 </div>
 :::
-
-:::{dropdown} 2. Feature Importances Non-Linear Models
-    :open:
-    :class: primary
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/tiSN18OmZOo?si=JED_dJ13nn_CBiES" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
-</div>
-:::
-
 
 ## Class Slides
 
-### Lecture 16
+### Lecture 20
 
 <div>
-<iframe src="https://firasm.github.io/cpsc330-slides/slides-16.html" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="https://firasm.github.io/cpsc330-slides/slides-20.html" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-[Download the Slides from today](../../files/Lec16.pdf)
-
-### Lecture 17
-
-<div>
-<iframe src="https://firasm.github.io/cpsc330-slides/slides-17.html" width="100%" height="600px" frameBorder="0"> </iframe>
-</div>
-
-[Download the Slides from today](../../files/Lec17.pdf)
-
--->
+[Download the Slides from today](../../files/Lec20.pdf)
