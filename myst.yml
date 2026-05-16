@@ -87,61 +87,89 @@ project:
       title: Class Meetings
       children:
         - file: lectures/classes/class1A
-          sections:
+          children:
           - url: https://firasm.github.io/cpsc330-slides/slides-01.html
             title: Lecture 1 Slides
         - file: lectures/classes/class1B
-          sections:
+          children:
           - url: https://firasm.github.io/cpsc330-slides/slides-02.html
             title: Lecture 2 Slides
         - file: lectures/classes/class1C
-          sections:
+          children:
           - url: https://firasm.github.io/cpsc330-slides/slides-03.html
-            title: Lecture 3 Slides
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-03.html
-    #       title: Lecture 3
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-04.html
-    #       title: Lecture 4
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-05.html
-    #       title: Lecture 5
-    #     # - url: https://firasm.github.io/cpsc330-slides/slides-06.html
-    #     #   title: Lecture 6
-    #     # - url: https://firasm.github.io/cpsc330-slides/slides-07.html
-    #     #   title: Lecture 7
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-08.html
-    #       title: Lecture 8
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-09.html
-    #       title: Lecture 9
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-10.html
-    #       title: Lecture 10
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-11.html
-    #       title: Lecture 11
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-12.html
-    #       title: Lecture 12
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-13.html
-    #       title: Lecture 13
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-14.html
-    #       title: Lecture 14
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-15.html
-    #       title: Lecture 15
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-16.html
-    #       title: Lecture 16
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-17.html
-    #       title: Lecture 17
-    #     # - url: https://firasm.github.io/cpsc330-slides/slides-18.html
-    #     #   title: Lecture 18
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-19.html
-    #       title: Lecture 19
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-20.html
-    #       title: Lecture 20
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-21.html
-    #       title: Lecture 21
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-22.html
-    #       title: Lecture 22
-    #     - file: lectures/notes/23_ethics.md
-    #       title: Lecture 23
-    #     - url: https://firasm.github.io/cpsc330-slides/slides-24.html
-    #       title: Lecture 24
+            title: Lecture 3
+          - url: https://firasm.github.io/cpsc330-slides/slides-04.html
+            title: Lecture 4
+
+        - file: lectures/classes/class2B
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-05.html
+            title: Lecture 5
+          - url: https://firasm.github.io/cpsc330-slides/slides-06.html
+            title: Lecture 6
+        - file: lectures/classes/class2C
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-07.html
+            title: Lecture 7
+          - url: https://firasm.github.io/cpsc330-slides/slides-08.html
+            title: Lecture 8
+
+        - file: lectures/classes/class3A
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-09.html
+            title: Lecture 9
+          - url: https://firasm.github.io/cpsc330-slides/slides-10.html
+            title: Lecture 10
+        - file: lectures/classes/class3B
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-11.html
+            title: Lecture 11
+          - url: https://firasm.github.io/cpsc330-slides/slides-12.html
+            title: Lecture 12        
+        - file: lectures/classes/class3C
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-03.html
+
+        - file: lectures/classes/class4A
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-13.html
+            title: Lecture 13
+        - file: lectures/classes/class4B
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-14.html
+            title: Lecture 14
+          - url: https://firasm.github.io/cpsc330-slides/slides-15.html
+            title: Lecture 15
+        - file: lectures/classes/class4C
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-16.html
+            title: Lecture 16
+          - url: https://firasm.github.io/cpsc330-slides/slides-17.html
+            title: Lecture 17
+        - file: lectures/classes/class5A
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-18.html
+            title: Lecture 18
+          - url: https://firasm.github.io/cpsc330-slides/slides-19.html
+            title: Lecture 19
+        - file: lectures/classes/class5B
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-20.html
+            title: Lecture 20
+        - file: lectures/classes/class5C
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-21.html
+            title: Lecture 21
+        - file: lectures/classes/class6A
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-22.html
+            title: Lecture 22
+          - file: lectures/notes/23_ethics.md
+            title: Lecture 23
+        - file: lectures/classes/class6B
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-24.html
+            title: Lecture 24
     # - title: Appendix
     #   children:
     #     - file: lectures/notes/AppendixA.ipynb
@@ -155,6 +183,10 @@ project:
           title: Tutorial 0
         - file: lectures/tutorials/01_decision_boundaries.ipynb
           title: Tutorial 1
+        - file: lectures/tutorials/02_ML_fundamentals.md
+          title: Tutorial 2
+        - file: lectures/tutorials/03_Preprocessing_extra_practice.ipynb
+          title: Tutorial 3
     - file: LICENSE.md
       title: Attribution
 site:
