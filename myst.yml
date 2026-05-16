@@ -60,21 +60,23 @@ project:
         - file: lectures/notes/04_kNNs-SVM-RBF.ipynb
         - file: lectures/notes/05_preprocessing-pipelines.ipynb
         - file: lectures/notes/06_column-transformer-text-feats.ipynb
+    - title: Part 2
+      children:
         - file: lectures/notes/07_linear-models.ipynb
         - file: lectures/notes/08_hyperparameter-optimization.ipynb
-    #     - file: lectures/notes/09_classification-metrics.ipynb
-    #     - file: lectures/notes/10_regression-metrics.ipynb
-    # - title: Part 2
+        - file: lectures/notes/09_classification-metrics.ipynb
+        - file: lectures/notes/10_regression-metrics.ipynb
+        - file: lectures/notes/11_ensembles.ipynb
+        - file: lectures/notes/12_feat-importances.ipynb
+    # - title: Part 3
     #   children:
-    #     - file: lectures/notes/11_ensembles.ipynb
-    #     - file: lectures/notes/12_feat-importances.ipynb
     #     - file: lectures/notes/13_feature-engineering-selection.ipynb
     #     - file: lectures/notes/14_K-Means.ipynb
     #     - file: lectures/notes/15_DBSCAN-hierarchical.ipynb
     #     - file: lectures/notes/16_recommender-systems.ipynb
-    # - title: Part 3
-    #   children:
     #     - file: lectures/notes/17_natural-language-processing.ipynb
+    # - title: Part 4
+    #   children:
     #     - file: lectures/notes/18_Intro-to-LLMs.ipynb
     #     - file: lectures/notes/19_intro_to_computer-vision.ipynb
     #     - file: lectures/notes/20_time-series.ipynb
