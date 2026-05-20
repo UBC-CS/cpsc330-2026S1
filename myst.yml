@@ -38,6 +38,8 @@ project:
             - file: docs/330_vs_340.md
         - url: https://us.prairielearn.com/pl/course_instance/215839/assessment/2682686
           title: PrairieLearn
+        - url: https://us.prairietest.com
+          title: PrairieTest
         - title: Setup
           children:
             - file: docs/git_installation.md
