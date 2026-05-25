@@ -132,19 +132,15 @@ project:
             title: Lecture 12        
         - file: lectures/classes/class3C
           children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-03.html
+          - url: https://firasm.github.io/cpsc330-slides/slides-13.html
 
         - file: lectures/classes/class4A
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-13.html
-            title: Lecture 13
-        - file: lectures/classes/class4B
           children:
           - url: https://firasm.github.io/cpsc330-slides/slides-14.html
             title: Lecture 14
           - url: https://firasm.github.io/cpsc330-slides/slides-15.html
             title: Lecture 15
-        - file: lectures/classes/class4C
+        - file: lectures/classes/class4B
           children:
           - url: https://firasm.github.io/cpsc330-slides/slides-16.html
             title: Lecture 16
