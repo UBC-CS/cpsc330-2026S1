@@ -6,25 +6,7 @@ We will leave the website open even after the course is over for a reasonable nu
 
 ## Pre-lecture 13 Videos
 
-Below are the assigned videos for Lecture 13.
-
-:::{dropdown} 1.  Model Interpretation Motivation
-    :open:
-    :class: primary
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/xfICsGL7DXE?si=oF5pSoQ8lngfW1Xn" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
-</div>
-:::
-
-:::{dropdown} 2. Feature Importances Non-Linear Models
-    :open:
-    :class: primary
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/tiSN18OmZOo?si=JED_dJ13nn_CBiES" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
-</div>
-:::
+There are no assigned pre-lecture videos for this lecture!
 
 ## Class Slides
 
