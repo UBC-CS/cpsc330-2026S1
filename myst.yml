@@ -133,6 +133,7 @@ project:
         - file: lectures/classes/class3C
           children:
           - url: https://firasm.github.io/cpsc330-slides/slides-13.html
+            title: Lecture 13        
 
         - file: lectures/classes/class4A
           children:
