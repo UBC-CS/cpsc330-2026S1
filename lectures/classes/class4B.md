@@ -7,6 +7,12 @@ We will leave the website open even after the course is over for a reasonable nu
 
 ## Pre-lecture 16 Videos
 
+There are no pre-lecture videos for Lecture 16!
+Don't forget to follow along with the notes.
+
+
+## Pre-lecture 17 Videos
+
 Below are the assigned videos for Lecture 16.
  
 :::{dropdown} 1. What is NLP?
@@ -26,11 +32,6 @@ Below are the assigned videos for Lecture 16.
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7W5Q8gzNPBc?si=jLuVWuMpSY34xssI" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 </div>
 :::
-
-## Pre-lecture 17 Videos
-
-There are no pre-lecture videos for Lecture 17!
-Don't forget to follow along with the notes.
 
 ## Class Slides
 
