@@ -14,7 +14,7 @@ Below are the assigned videos for Lecture 16.
     :class: primary
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/GTC_iLPCjdY?si=PJtd7rU59h9xVZ6d" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/GTC_iLPCjdY?si=MU0EX9B5vDi2mlRl" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 </div>
 :::
 
@@ -23,16 +23,7 @@ Below are the assigned videos for Lecture 16.
     :class: primary
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/7W5Q8gzNPBc?si=Sp4U9UWoK7SEbF1p" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
-</div>
-:::
-
-:::{dropdown} 3. K-Means: Choosing K
-    :open:
-    :class: primary
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/M5ilrhcL0oY?si=98wBLafdqT3Y7mgS" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/7W5Q8gzNPBc?si=jLuVWuMpSY34xssI" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 </div>
 :::
 
