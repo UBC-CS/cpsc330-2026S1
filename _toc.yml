@@ -77,12 +77,12 @@ chapters:
         title: Lecture 11
       - file: lectures/Firas/class12.md
         title: Lecture 12
-      # - file: lectures/Firas/class13.md
-      #   title: Lecture 13
-      # - file: lectures/Firas/class14.md
-      #   title: Lecture 14
-      # - file: lectures/Firas/class15.md
-      #   title: Lecture 15
+      - file: lectures/Firas/class13.md
+        title: Lecture 13
+      - file: lectures/Firas/class14.md
+        title: Lecture 14
+      - file: lectures/Firas/class15.md
+        title: Lecture 15
       # - file: lectures/Firas/class16.md
       #   title: Lecture 16
       # - file: lectures/Firas/class17.md
