@@ -79,7 +79,7 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 | hw5            | Mon June 1, 23:59    | PrairieLearn       |
 | hw6            | Wed June 3, 23:59    | PrairieLearn       |
 | **Midterm 3**  | June 4-6             | CBTF (PrairieTest) |
-| hw7            | <strikethrough>Mon June 8, 23:59</strikethrough> Fri June 12th, 23:59   | PrairieLearn       |
+| hw7            | <s>Mon June 8, 23:59</s> Fri June 12th, 23:59   | PrairieLearn       |
 | hw8            | Mon June 15, 23:59   | PrairieLearn       |
 | hw9            | Thurs June 18, 23:59 | PrairieLearn       |
 | **Final exam** | TBA                  | PrairieLearn       |
