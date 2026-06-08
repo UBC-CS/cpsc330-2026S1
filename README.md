@@ -132,17 +132,17 @@ We'll be developing lecture notes directly in this repository. So if you check t
 | 13 | May 29 | Feature engineering and feature selection | None | less depth |
 | 14 | Jun 1 | Clustering |  📹 Pre-watch: [14.1](https://youtu.be/caAuUAXwpb8), [14.2](https://youtu.be/s6AvSZ1_l7I), [14.3](https://youtu.be/M5ilrhcL0oY)  | less depth |
 | 15 | Jun 1 | More clustering |  📹 Pre-watch: [15.1](https://youtu.be/1ZwITQyWpkY), [15.2](https://youtu.be/T4NLsrUaRtg), [15.3](https://youtu.be/NM8lFKFZ2IU)   | less depth |
-| 16 | Jun 3 | Simple recommender systems | | less depth ||
-| 17 | Jun 3 | Text data, embeddings, topic modeling  | 📹 Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY), [16.2](https://youtu.be/7W5Q8gzNPBc)  |   new |
 | Test 3 |  | Jun 4-6 |- |- |
 | - | Jun 5| *No Class* |- | |
-| 18 | Jun 8 | Introduction to LLMs | | |
-| 19 | Jun 8 | Neural networks and computer vision | |   less depth |
+| 16 | Jun <s>3</s> 8 | Simple recommender systems | | less depth ||
+| 17 | Jun <s>3</s> 8 | Text data, embeddings, topic modeling  | 📹 Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY), [16.2](https://youtu.be/7W5Q8gzNPBc)  |   new |
+| 18 | Jun 8 | Introduction to LLMs (skipped in class) | | |
+| 19 | Jun 10 | Neural networks and computer vision | |   less depth |
 | 20 | Jun 10 | Time series data | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
 | 21 | Jun 12 | Survival analysis | 📹 (Optional but highly recommended)[Calling Bullshit 4.1: Right Censoring](https://www.youtube.com/watch?v=ITWQ5psx9Sw)|   new |
 | 22 | Jun 15 | Communication | 📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total)</li> <li>[Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min)</li> |   new |
-| 23 | Jun 15 | Ethics |   📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total)</li> <li>[The ethics of data science](http://jtleek.com/ads2020/week-15.html)</li>| new |
-| 24 | Jun 17 | Model deployment and conclusion |  |  new |
+| 23 | Jun 15 | **Updated** Ethics, Model Deployment, and conclusion |   📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total)</li> <li>[The ethics of data science](http://jtleek.com/ads2020/week-15.html)</li>| new |
+| 24 | Jun 17 | *No Class* |  |  - |
 
 
 ## Reference Material
