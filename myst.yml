@@ -148,6 +148,7 @@ project:
           - url: https://firasm.github.io/cpsc330-slides/slides-17.html
             title: Lecture 17
         - file: lectures/classes/class5A
+          children:
           - url: https://firasm.github.io/cpsc330-slides/slides-16.html
             title: Lecture 16
           - url: https://firasm.github.io/cpsc330-slides/slides-17.html
