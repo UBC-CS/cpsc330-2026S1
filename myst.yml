@@ -169,16 +169,18 @@ project:
             title: Lecture 22
           - file: lectures/notes/23_ethics.md
             title: Lecture 23
-        - file: lectures/classes/class6B
-          children:
           - url: https://firasm.github.io/cpsc330-slides/slides-24.html
             title: Lecture 24
-    # - title: Appendix
-    #   children:
-    #     - file: lectures/notes/AppendixA.ipynb
-    #     - file: lectures/notes/AppendixB.ipynb
-    #     - file: lectures/notes/AppendixC.ipynb
-    #     - file: lectures/notes/AppendixD.ipynb
+        # - file: lectures/classes/class6B
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-24.html
+        #     title: Lecture 24
+    - title: Appendix
+      children:
+        - file: lectures/notes/AppendixA.ipynb
+        - file: lectures/notes/AppendixB.ipynb
+        - file: lectures/notes/AppendixC.ipynb
+        - file: lectures/notes/AppendixD.ipynb
     - file: lectures/tutorials/README.md
       title: Tutorials
       children:

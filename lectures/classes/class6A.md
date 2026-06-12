@@ -30,6 +30,10 @@ We recommend watching the rest of the Chapter 6 videos also - 6 short videos, 47
 
 There are no Lecture 23 videos!
 
+## Pre-lecture 24 Videos
+
+There are no lecture 24 videos!
+
 ## Class Slides
 
 ### Lecture 22
@@ -47,3 +51,11 @@ There are no Lecture 23 videos!
 </div>
 
 [Download the Slides from today](../../files/Lec23.pdf)
+
+### Lecture 24 - Deployment
+
+<div>
+<iframe src="https://firasm.github.io/cpsc330-slides/slides-24.html" width="100%" height="600px" frameBorder="0"> </iframe>
+</div>
+
+[Download the Slides from today](../../files/Lec24.pdf)
