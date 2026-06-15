@@ -165,12 +165,12 @@ project:
             title: Lecture 21
         - file: lectures/classes/class6A
           children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-22.html
-            title: Lecture 22
           - file: lectures/notes/23_ethics.md
             title: Lecture 23
-          - url: https://firasm.github.io/cpsc330-slides/slides-24.html
-            title: Lecture 24
+          - url: https://firasm.github.io/cpsc330-slides/slides-22.html
+            title: Lecture 22
+          # - url: https://firasm.github.io/cpsc330-slides/slides-24.html
+          #   title: Lecture 24
         # - file: lectures/classes/class6B
         #   children:
         #   - url: https://firasm.github.io/cpsc330-slides/slides-24.html
