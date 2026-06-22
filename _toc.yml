@@ -41,15 +41,15 @@ chapters:
       - file: lectures/notes/13_feature-engineering-selection.ipynb
       - file: lectures/notes/14_K-Means.ipynb
       - file: lectures/notes/15_DBSCAN-hierarchical.ipynb
-  # - file: lectures/notes/16_recommender-systems.ipynb
-  # - file: lectures/notes/17_natural-language-processing.ipynb
-  # - file: lectures/notes/18_Intro-to-LLMs.ipynb
-  # - file: lectures/notes/19_intro_to_computer-vision.ipynb
-  # - file: lectures/notes/20_time-series.ipynb
-  # - file: lectures/notes/21_survival-analysis.ipynb
-  # - file: lectures/notes/22_communication.ipynb
-  # - file: lectures/notes/23_ethics.md
-  # - file: lectures/notes/24_deployment-conclusion.ipynb
+      - file: lectures/notes/16_recommender-systems.ipynb
+      - file: lectures/notes/17_natural-language-processing.ipynb
+      - file: lectures/notes/18_Intro-to-LLMs.ipynb
+      - file: lectures/notes/19_intro_to_computer-vision.ipynb
+      - file: lectures/notes/20_time-series.ipynb
+      - file: lectures/notes/21_survival-analysis.ipynb
+      - file: lectures/notes/22_communication.ipynb
+      - file: lectures/notes/23_ethics.md
+      - file: lectures/notes/24_deployment-conclusion.ipynb
   - file: lectures/Firas/README.md
     title: Slides
     sections:
@@ -83,21 +83,21 @@ chapters:
         title: Lecture 14
       - file: lectures/Firas/class15.md
         title: Lecture 15
-      # - file: lectures/Firas/class16.md
-      #   title: Lecture 16
-      # - file: lectures/Firas/class17.md
-      #   title: Lecture 17
-      # - file: lectures/Firas/class18.md
-      #   title: Lecture 18
-      # - file: lectures/Firas/class19.md
-      #   title: Lecture 19
-      # - file: lectures/Firas/class20.md
-      #   title: Lecture 20
-      # - file: lectures/Firas/class21.md
-      #   title: Lecture 21
-      # - file: lectures/Firas/class22.md
-      #   title: Lecture 22
-      # - file: lectures/Firas/class23.md
-      #   title: Lecture 23
-      # - file: lectures/Firas/class24.md
-      #   title: Lecture 24
+      - file: lectures/Firas/class16.md
+        title: Lecture 16
+      - file: lectures/Firas/class17.md
+        title: Lecture 17
+      - file: lectures/Firas/class18.md
+        title: Lecture 18
+      - file: lectures/Firas/class19.md
+        title: Lecture 19
+      - file: lectures/Firas/class20.md
+        title: Lecture 20
+      - file: lectures/Firas/class21.md
+        title: Lecture 21
+      - file: lectures/Firas/class22.md
+        title: Lecture 22
+      - file: lectures/Firas/class23.md
+        title: Lecture 23
+      - file: lectures/Firas/class24.md
+        title: Lecture 24
